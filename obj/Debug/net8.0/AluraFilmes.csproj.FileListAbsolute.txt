@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\bin\Debug\net8.0\AluraFilmes.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\bin\Debug\net8.0\AluraFilmes.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\bin\Debug\net8.0\AluraFilmes.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\bin\Debug\net8.0\AluraFilmes.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\bin\Debug\net8.0\AluraFilmes.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\refint\AluraFilmes.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\AluraFilmes.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\AluraFilmes\obj\Debug\net8.0\ref\AluraFilmes.dll
